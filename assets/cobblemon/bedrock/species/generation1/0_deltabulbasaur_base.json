@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:deltabulbasaur",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:generation1_deltabulbasaur",
+      "model": "cobblemon:cutout_gravelmon.geo",
+      "texture": "cobblemon:textures/pokemon/generation1/deltabulbasaur.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/generation1/deltabulbasaur_shiny.png"
+    },
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:deltabulbasaur.geo",
+      "texture": "cobblemon:textures/pokemon/generation1/deltabulbasaur_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "model": "cobblemon:deltabulbasaur.geo",
+      "texture": "cobblemon:textures/pokemon/generation1/deltabulbasaur_female_shiny.png"
+    }
+  ]
+}
