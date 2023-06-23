@@ -5,7 +5,7 @@
     {
       "aspects": [],
       "poser": "cobblemon:generation1_deltaivysaur",
-      "model": "cobblemon:cutout_gravelmon.geo",
+      "model": "cobblemon:deltaivysaur.geo",
       "texture": "cobblemon:textures/pokemon/generation1/deltaivysaur.png",
       "layers": []
     },

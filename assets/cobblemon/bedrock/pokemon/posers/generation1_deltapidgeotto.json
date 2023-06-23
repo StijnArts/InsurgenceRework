@@ -1,5 +1,5 @@
 {
-    "head": "head",
+    "head": "torso",
     "portraitScale": 2.8,
     "portraitTranslation": [-0.47, -0.88, 0],
     "profileScale": 0.9,
@@ -11,7 +11,7 @@
         "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE", "FLOAT","HOVER"],
         "animations": [
           "look",
-          "bedrock(deltapidgeotto, air_idle)"
+          "bedrock(deltapidgeotto, ground_idle)"
         ]
       },
 	  "sleeping": {

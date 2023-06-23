@@ -11,7 +11,7 @@
         "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE", "FLOAT","HOVER"],
         "animations": [
           "look",
-          "bedrock(deltapidgeot, air_idle)"
+          "bedrock(deltapidgeot, ground_idle)"
         ]
       },
 	  "sleeping": {
